@@ -1,12 +1,12 @@
 3 trạng thái GIT
-- commited: Lưu trong db Local
 - modified: Đã sửa, chưa lưu
 - staged: chuẩn bị lưu local
+- commited: Lưu trong db Local
 
 3 khu vực
-- working tree:
-- staging:
-- Git directory:
+- working tree: Chứa bản sao phiên bản cụ thể của dự án
+- staging: File nằm trong thư mục git, chứa thông tin sẽ commit
+- Git directory: Nơi Git lưu database các file Metadata
 
 
 git init
