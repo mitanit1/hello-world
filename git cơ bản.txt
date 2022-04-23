@@ -1,0 +1,13 @@
+3 trạng thái GIT
+- commited: Lưu trong db Local
+- modified: Đã sửa, chưa lưu
+- staged: chuẩn bị lưu local
+
+3 khu vực
+- working tree:
+- staging:
+- Git directory:
+
+
+git init
+git clone
