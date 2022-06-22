@@ -19,3 +19,5 @@ git status
 git reset --soft HEAD~1, git reset --hard HEAD~1
 git reset -- "file name", git reset -- .
 git restore --staged "file name", git restore --staged .
+
+git branch.
