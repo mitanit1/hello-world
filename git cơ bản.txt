@@ -11,3 +11,11 @@
 
 git init
 git clone
+git add "filename", git add .
+git commit -m "comment"
+git log, git log --oneline
+git checkout #hag -- "file", git checkout #hag .
+git status
+git reset --soft HEAD~1, git reset --hard HEAD~1
+git reset -- "file name", git reset -- .
+git restore --staged "file name", git restore --staged .
